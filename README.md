@@ -1,4 +1,4 @@
-# Stock Volatility Forecasting (HAR-RV, XGBoost)
+# Stock Volatility Forecasting 
 
 ## Overview  
 This project was developed as part of **Discipline Assessment 2** in the *DATA3888 Data Science Capstone* (University of Sydney).  

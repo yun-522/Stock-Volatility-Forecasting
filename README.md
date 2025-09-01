@@ -11,7 +11,6 @@ The client, *Louis (a quantitative trader)*, requested an **interpretable model*
 
 The work required both rigorous technical modeling and clear communication to a client with introductory data science knowledge.  
 
-
 ---
 
 ## Objectives  
@@ -70,6 +69,14 @@ The work required both rigorous technical modeling and clear communication to a 
 - **Language:** Python  
 - **Libraries:** pandas, scikit-learn, xgboost, matplotlib  
 - **Methods:** HAR-RV, WLS, XGBoost, error analysis (MAE, RMSE, R², QLIKE)  
+
+## Data  
+The dataset (`stock_1.csv`) was provided by the instructor as part of the *DATA3888 Data Science Capstone* unit (University of Sydney).  
+
+Due to its large size, it is not stored directly in this repository.  
+You can download it here: [stock_1.csv (Google Drive)](https://drive.google.com/file/d/1qPekZzkhEsV-0gbfGa4XuSJHB78IbUWe/view).  
+
+⚠️ Note: This dataset is course-provided and may not be publicly reusable outside the academic context.
 
 ---
 

@@ -7,9 +7,6 @@ It was an **individual project** designed as a client presentation task.
 The client, *Louis (a quantitative trader)*, requested an **interpretable model** to forecast realized volatility from high-frequency stock data (`stock_1.csv`).  
 The work required both rigorous technical modeling and clear communication to a client with introductory data science knowledge.  
 
-**Code + Output:**  
-- [Full HTML Report](./Discipline%20Assessment%202%20-%20Stock-1.html)  
-
 ---
 
 ## Objectives  

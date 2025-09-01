@@ -71,8 +71,12 @@ The work required both rigorous technical modeling and clear communication to a 
 - **Methods:** HAR-RV, WLS, XGBoost, error analysis (MAE, RMSE, R², QLIKE)  
 
 ## Data  
+
 The dataset (`stock_1.csv`) was provided by the instructor as part of the *DATA3888 Data Science Capstone* unit (University of Sydney).  
-Due to licensing restrictions, it is **not included in this repository** and cannot be publicly shared.
+Due to licensing restrictions, the full dataset is **not included in this repository** and cannot be publicly shared.  
+
+To illustrate the data structure, a small [sample dataset](./sample_stock_1.csv) containing the first 10 rows is provided in this repository.  
+This sample preserves the schema and format of the original data without redistributing the complete file.  
 
 ---
 

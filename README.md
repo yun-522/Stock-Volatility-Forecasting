@@ -72,11 +72,7 @@ The work required both rigorous technical modeling and clear communication to a 
 
 ## Data  
 The dataset (`stock_1.csv`) was provided by the instructor as part of the *DATA3888 Data Science Capstone* unit (University of Sydney).  
-
-Due to its large size, it is not stored directly in this repository.  
-You can download it here: [stock_1.csv (Google Drive)](https://drive.google.com/file/d/1qPekZzkhEsV-0gbfGa4XuSJHB78IbUWe/view).  
-
-⚠️ Note: This dataset is course-provided and may not be publicly reusable outside the academic context.
+Due to licensing restrictions, it is **not included in this repository** and cannot be publicly shared.
 
 ---
 

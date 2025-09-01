@@ -2,14 +2,13 @@
 
 **Code + Output:**  
 - [Rendered HTML Report (via GitHub Pages)](https://yun-522.github.io/Stock-Volatility-Forecasting/)  
-- [Source Code & Analysis](./Discipline-Assessment-2-Stock-1.html)  
-
 
 ## Overview  
 This project was developed as part of **Discipline Assessment 2** in the *DATA3888 Data Science Capstone* (University of Sydney).  
 It was an **individual project** designed as a client presentation task.  
 
-The client, *Louis (a quantitative trader)*, requested an **interpretable model** to forecast realized volatility from high-frequency stock data (`stock_1.csv`).  
+The client, *Louis (a quantitative trader)*, requested an **interpretable model** to forecast realized volatility from high-frequency stock data (`stock_1.csv`), which was provided by the instructor as part of the *DATA3888 Data Science Capstone* unit.
+
 The work required both rigorous technical modeling and clear communication to a client with introductory data science knowledge.  
 
 
